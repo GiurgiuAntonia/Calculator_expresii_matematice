@@ -1,0 +1,23 @@
+Caracter: (, Poloneza: 
+Caracter: (, Poloneza: 
+Caracter: *, Poloneza: 2 
+Caracter: (, Poloneza: 2 
+Caracter: -, Poloneza: 2 13,5 
+Caracter: *, Poloneza: 2 13,5 6 
+Caracter: ), Poloneza: 2 13,5 6 2 
+Caracter: +, Poloneza: 2 13,5 6 2 
+Caracter: ), Poloneza: 2 13,5 6 2 4 
+Caracter: ), Poloneza: 2 13,5 6 2 4 
+Caracter: 2, Stiva: []
+Caracter:  , Stiva: []
+Caracter: 1, Stiva: [2]
+Caracter: 3, Stiva: [2]
+Caracter: ,, Stiva: [2]
+Caracter: 5, Stiva: [2]
+Caracter:  , Stiva: [2]
+Caracter: 6, Stiva: [135, 2]
+Caracter:  , Stiva: [135, 2]
+Caracter: 2, Stiva: [6, 135, 2]
+Caracter:  , Stiva: [6, 135, 2]
+Caracter: 4, Stiva: [2, 6, 135, 2]
+Caracter:  , Stiva: [2, 6, 135, 2]

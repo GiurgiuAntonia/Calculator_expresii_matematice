@@ -1,0 +1,20 @@
+Caracter: (, Poloneza: 
+Caracter: (, Poloneza: 
+Caracter: *, Poloneza: 2 
+Caracter: (, Poloneza: 2 
+Caracter: /, Poloneza: 2 4 
+Caracter: +, Poloneza: 2 4 2 
+Caracter: ), Poloneza: 2 4 2 3 
+Caracter: -, Poloneza: 2 4 2 3 
+Caracter: ), Poloneza: 2 4 2 3 1 
+Caracter: ), Poloneza: 2 4 2 3 1 
+Caracter: 2, Stiva: []
+Caracter:  , Stiva: []
+Caracter: 4, Stiva: [2]
+Caracter:  , Stiva: [2]
+Caracter: 2, Stiva: [4, 2]
+Caracter:  , Stiva: [4, 2]
+Caracter: 3, Stiva: [2, 4, 2]
+Caracter:  , Stiva: [2, 4, 2]
+Caracter: 1, Stiva: [3, 2, 4, 2]
+Caracter:  , Stiva: [3, 2, 4, 2]
